@@ -10,7 +10,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.RessoMusicPlayerClone">
         <activity
+            android:name=".LoginScreen"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".SplashScreen"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
