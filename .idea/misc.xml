@@ -3,13 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/drawable/backgroundbox.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/drawable/backgroundbutton.xml" value="0.2703125" />
+        <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/drawable/corner.xml" value="0.2703125" />
+        <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/drawable/corner1.xml" value="0.14635416666666667" />
         <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/drawable/gradient_bg.xml" value="0.2703125" />
         <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/drawable/ic_add.xml" value="0.2703125" />
         <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/drawable/ic_close.xml" value="0.2703125" />
         <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/drawable/rectangle.xml" value="0.2703125" />
         <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/drawable/splash_bg.xml" value="0.2703125" />
+        <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/layout/activity_entermobileno.xml" value="0.2391304347826087" />
+        <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/layout/activity_home.xml" value="0.13020833333333334" />
         <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/layout/activity_login_screen.xml" value="0.176" />
         <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/layout/activity_splash_screen.xml" value="0.2" />
+        <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/layout/activity_verifyenterotptwo.xml" value="0.13020833333333334" />
         <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/layout/artistrow_item.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/layout/fragment_artist_screen.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/layout/item_artist.xml" value="0.25416666666666665" />

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="49f1946b-a4d2-46b4-8e2b-0958f1618bb9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../release/app-release.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../release/output-metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ic_launcher-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/com/example/ressomusicplayerclone/Home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/com/example/ressomusicplayerclone/entermobileno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/com/example/ressomusicplayerclone/itemArtist/ArtistADapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/com/example/ressomusicplayerclone/itemArtist/ArtistViewHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/com/example/ressomusicplayerclone/verifyenterotptwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable-v24/facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable-v24/google.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable-v24/phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable-v24/phone2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable-v24/resoicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable-v24/sms.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable-v24/sms1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable-v24/sms2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backgroundbox.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backgroundbutton.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corner1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic_baseline_arrow_back_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ic_round_account_circle_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reciveed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendmail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/splash_rapido_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout/activity_entermobileno.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout/activity_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout/activity_verifyenterotptwo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout/item_artist.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mipmap-hdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mipmap-mdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mipmap-xhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mipmap-xxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mipmap-xxxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/example/ressomusicplayerclone/LoginScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/example/ressomusicplayerclone/LoginScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/example/ressomusicplayerclone/SplashScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/example/ressomusicplayerclone/SplashScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../drawable-v24/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout/activity_login_screen.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layout/activity_login_screen.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout/activity_splash_screen.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layout/activity_splash_screen.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../build.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectId" id="1ykpOtczk6KyrWcntDMONZTLYTl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/FirebaseDemo-FacebookAuthentication" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49f1946b-a4d2-46b4-8e2b-0958f1618bb9" name="Default Changelist" comment="" />
+      <created>1632805412231</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632805412231</updated>
+    </task>
+    <servers />
+  </component>
+</project>
