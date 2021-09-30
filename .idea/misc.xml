@@ -7,19 +7,29 @@
         <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/drawable/backgroundbutton.xml" value="0.2703125" />
         <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/drawable/corner.xml" value="0.2703125" />
         <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/drawable/corner1.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/drawable/edit_bg.xml" value="0.2703125" />
         <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/drawable/gradient_bg.xml" value="0.2703125" />
         <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/drawable/ic_add.xml" value="0.2703125" />
         <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/drawable/ic_close.xml" value="0.2703125" />
         <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/drawable/rectangle.xml" value="0.2703125" />
         <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/drawable/splash_bg.xml" value="0.2703125" />
+        <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/font/roboto.xml" value="0.18072916666666666" />
         <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/layout/activity_entermobileno.xml" value="0.2391304347826087" />
         <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/layout/activity_home.xml" value="0.13020833333333334" />
         <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/layout/activity_login_screen.xml" value="0.176" />
+        <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/layout/activity_main1.xml" value="0.15052083333333333" />
+        <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/layout/activity_main_activityview_pager.xml" value="0.115625" />
+        <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/layout/activity_music.xml" value="0.1838768115942029" />
+        <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/layout/activity_music_item_details.xml" value="0.15052083333333333" />
         <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/layout/activity_splash_screen.xml" value="0.2" />
-        <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/layout/activity_verifyenterotptwo.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/layout/activity_verifyenterotptwo.xml" value="0.1" />
         <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/layout/artistrow_item.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/layout/fragment_artist_screen.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/layout/item_artist.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/layout/content.xml" value="0.19202898550724637" />
+        <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/layout/fragment_artist.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/layout/fragment_artist_screen.xml" value="0.12043795620437957" />
+        <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/layout/item_artist.xml" value="0.176" />
+        <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/layout/item_layout.xml" value="0.20833333333333334" />
         <entry key="..\:/Users/Sumit Rai/Desktop/web/RessoMusicPlayerClone/app/src/main/res/layout/stories_row_item.xml" value="0.25416666666666665" />
       </map>
     </option>

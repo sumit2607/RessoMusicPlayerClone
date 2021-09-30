@@ -7,7 +7,7 @@
     android:overScrollMode="never"
     android:scrollbars="none"
     android:background="@drawable/gradient_bg"
-    tools:context=".verifyenterotptwo">
+    tools:context=".AllActivity.verifyenterotptwo">
 
     // top one section
 

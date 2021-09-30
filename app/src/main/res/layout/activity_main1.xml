@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/gradient_bg"
+    tools:context=".PlayMusic.MainActivity1">
+
+    <EditText
+        android:id="@+id/etSearchMusic"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/size_40"
+        android:layout_marginVertical="@dimen/size_22"
+        android:background="@drawable/edit_bg"
+        android:hint="@string/search_music"
+        android:padding="@dimen/size_10"
+        android:textColor="@color/black"
+        android:textSize="@dimen/size_22" />
+
+
+    <Button
+        android:id="@+id/btnSearch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/size_40"
+        android:background="@drawable/edit_bg"
+        android:backgroundTint="#2196F3"
+        android:fontFamily="@font/roboto"
+        android:text="Search"
+        android:textSize="@dimen/size_18" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="@dimen/size_40"
+        android:layout_marginLeft="@dimen/size_5" />
+
+</LinearLayout>

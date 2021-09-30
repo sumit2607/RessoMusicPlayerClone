@@ -7,5 +7,6 @@
     <string name="otp_verfication">OTP Verfication</string>
     <string name="facebook_app_id">600662127934374</string>
     <string name="fb_login_protocol_scheme">fb600662127934374</string>
-
+    <string name="default_web_client" translatable="false">418120955250-j9pb90s681fh234pn1r84an23gj957h2.apps.googleusercontent.com</string>
+    <string name="search_music" />
 </resources>

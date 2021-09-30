@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/gradient_bg"
-    tools:context=".LoginScreen">
+    tools:context=".AllActivity.LoginScreen">
 
 
     <Button
@@ -53,8 +53,8 @@
         android:layout_marginEnd="35dp"
         android:layout_marginBottom="51dp"
         android:background="@drawable/corner"
-        android:text="Countinue With Google"
         android:drawableLeft="@drawable/google"
+        android:text="Countinue With Google"
         android:textColor="@color/white"
         android:textStyle="bold" />
 
